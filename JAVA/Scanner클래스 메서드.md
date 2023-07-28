@@ -28,16 +28,16 @@ public class Test {
         Scanner sc = new Scanner(System.in);
  
         int num;
-				String str;
-				System.out.println("숫자입력");
-				num = sc.nextInt();
-
-				System.out.println("str입력");
-				str = sc.nextLine();
-
-			System.out.println("num : " + num);
-			System.out.println("str : " + str);
-			sc.close();
+	String str;
+	System.out.println("숫자입력");
+	num = sc.nextInt();
+	
+	System.out.println("str입력");
+	str = sc.nextLine();
+	
+	System.out.println("num : " + num);
+	System.out.println("str : " + str);
+	sc.close();
 
     }
 }
@@ -72,19 +72,19 @@ public class Test{
 
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
+	Scanner sc = new Scanner(System.in);
 		 
         int num;
-				String str;
-				System.out.println("숫자입력");
-				num = sc.nextInt();
+	String str;
+	System.out.println("숫자입력");
+	num = sc.nextInt();
 
-				System.out.println("str입력");
-				str = sc.next();
+	System.out.println("str입력");
+	str = sc.next();
 
-			System.out.println("num : " + num);
-			System.out.println("str : " + str);
-			sc.close();
+	System.out.println("num : " + num);
+	System.out.println("str : " + str);
+	sc.close();
 	
 	}
 
