@@ -1,6 +1,6 @@
 # Scanner 클래스의 메서드
 
- <img width="60%" src="https://github.com/Jhyeri/TIL/assets/111175466/c22ad703-62d2-4529-ba55-8d3d082bece2"/>
+ <img width="50%" src="https://github.com/Jhyeri/TIL/assets/111175466/c22ad703-62d2-4529-ba55-8d3d082bece2"/>
 
 ## 📌 next()
 
