@@ -20,6 +20,10 @@
 
 ### nextLine() 메서드 사용하기
 
+<details>
+<summary><b>코드 펼치기</b></summary>
+<div markdown="1">
+	
 ```java
 import java.util.Scanner;
  
@@ -50,7 +54,9 @@ str입력
 num : 1
 str :
 ```
-
+</div>
+</details>
+<br/> 
 숫자만 입력하자마자 바로 출력이 된다.
 
 **next()는 개행문자를 무시하고 문자를 받는다.**
@@ -64,7 +70,10 @@ nextInt()가 버퍼의 내용을 가져올 때 **분리자를 제외하고** 가
 그럼 버퍼에 개행문자만 남게 되는데, **nextLine()은 개행문자인 분리자를 포함**시키기 때문에 \t만 가져오고 프로그램이 종료된다. 
 
 ### next() 메서드 사용하기
-
+<details>
+<summary><b>코드 펼치기</b></summary>
+<div markdown="1">
+	
 ```java
 import java.util.Scanner;
 
@@ -99,6 +108,9 @@ abc
 num : 1
 str : abc**
 ```
+</div>
+</details>
+<br/>
 
 ## 입력과 버퍼 정리
 
